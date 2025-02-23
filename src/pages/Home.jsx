@@ -27,7 +27,7 @@ const Home = () => {
     <div class="card">
       <img src="/dosa.jpeg" class="card-img-top" alt="..."/>
       <div class="card-body">
-        <h5 class="card-title">Dosa Receipe</h5>
+        <h5 class="card-title">Dosa Recipe</h5>
         <p class="card-text">Crispy, golden dosas filled with flavor, a delightful South Indian treat!</p>
       </div>
     </div>
@@ -36,7 +36,7 @@ const Home = () => {
     <div class="card">
       <img src="/idli.jpeg" class="card-img-top" alt="..."/>
       <div class="card-body">
-        <h5 class="card-title">Idli Receipe</h5>
+        <h5 class="card-title">Idli Recipe</h5>
         <p class="card-text">Soft, fluffy idlis served fresh, a perfect bite of tradition to start your day!</p>
       </div>
     </div>
